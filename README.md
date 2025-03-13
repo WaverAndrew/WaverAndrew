@@ -12,8 +12,6 @@ I began coding at **11**, quickly discovering my love not just for writing code,
 
 - **🦅 Eaglecam (2019)**: Built a custom AI neural network at 15 to automatically select the best photos from videos—my first venture into deep learning.
 
-- **🌐 Idemos (2021-2022)**: Co-founded a Web3 NFT personalization platform, scaled to $30k/month revenue, and earned recognition from Italy's biggest bank.
-
 - **🔍 Eurys (2024)**: Currently creating an AI-powered search engine designed to connect people effortlessly. Transitioning from backend to full-stack development.
 
 ## 🎯 Interests outside tech:
@@ -22,8 +20,6 @@ I began coding at **11**, quickly discovering my love not just for writing code,
 
 ## 📬 Let's connect:
 
-- [✉️ Email](mailto:your.email@example.com)
-- [🔗 LinkedIn](https://linkedin.com/in/yourusername)
-- [🐦 Twitter](https://twitter.com/yourusername)
+- [✉️ Email](mailto:your.email@example.com) [🔗 LinkedIn](https://linkedin.com/in/yourusername) [🐦 Twitter](https://twitter.com/yourusername)
 
 Exciting Times Ahead! 🌟☘️
