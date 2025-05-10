@@ -8,11 +8,14 @@ I began coding at **11**, quickly discovering my love not just for writing code,
 
 ## 🛠️ Projects I'm proud of:
 
-- **📸 Instascanner (2017-2018)**: Automated Instagram influencer discovery tool. Learned firsthand the complexities of scaling third-party integrations.
 
 - **🦅 Eaglecam (2019)**: Built a custom AI neural network at 15 to automatically select the best photos from videos—my first venture into deep learning.
 
-- **🔍 Eurys (2024)**: Currently creating an AI-powered search engine designed to connect people effortlessly. Transitioning from backend to full-stack development.
+- **🔍 Eurys (2024)**: Created an AI-powered search engine designed to connect people effortlessly. Transitioning from backend to full-stack development.
+
+- **📚 Ubooks (2024)**: A peer-to-peer university book marketplace that attracted over 30 000 visits in its first month—20 % of my university’s students used it.
+
+- **🤖 AndanAI (2025)**: Crafting a multi-agent brain to give drones real-time vision capabilities. Coming very soon :)
 
 ## 🎯 Interests outside tech:
 
