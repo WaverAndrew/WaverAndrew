@@ -1,6 +1,6 @@
 # Hi, I'm Andrea :)
 
-**📍 Milan, Italy |  Student, Tech Enthusiast & Entrepreneur | **
+📍 Milan, Italy |  Student, Tech Enthusiast & Entrepreneur |
 
 I'm a **20-year-old student** driven by curiosity, passion for startups, and the thrill of turning ideas into reality through technology.
 
