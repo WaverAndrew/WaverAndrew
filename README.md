@@ -13,7 +13,7 @@ I began coding at **11**, quickly discovering my love not just for writing code,
 
 - **🔍 Eurys (2024)**: Created an AI-powered search engine designed to connect people effortlessly. Transitioning from backend to full-stack development.
 
-- **📚 Ubooks (2024)**: A peer-to-peer university book marketplace that attracted over 30 000 visits in its first month—20 % of my university’s students used it.
+- **📚 Ubooks (2024-25)**: A peer-to-peer university book marketplace that attracted over 30 000 visits in its first month—20 % of my university’s students use it.
 
 - **🤖 AndanAI (2025)**: Crafting a multi-agent brain to give drones real-time vision capabilities. Coming very soon :)
 
