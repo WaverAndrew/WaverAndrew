@@ -15,7 +15,7 @@ I began coding at **11**, quickly discovering my love not just for writing code,
 
 - **📚 Ubooks (2024-25)**: A peer-to-peer university book marketplace that attracted over 30 000 visits in its first month—20 % of my university’s students use it.
 
-- **🤖 AndanAI (2025)**: Crafting a multi-agent brain to give drones real-time vision capabilities. Coming very soon :)
+- **🤖 EVE (Evolutionary Visual Explorer) (2025)**: Crafting a multi-agent brain to give drones real-time vision capabilities. Coming very soon :)
 
 ## 🎯 Interests outside tech:
 
